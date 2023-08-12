@@ -3,6 +3,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  height: 40vh;
+  width: 100%;
   /* background-color: aqua; */
 }
 .avatar {
@@ -18,5 +20,4 @@
 .name-id {
   display: flex;
   flex-direction: column;
-  
 }
