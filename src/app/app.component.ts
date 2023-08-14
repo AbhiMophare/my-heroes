@@ -12,7 +12,7 @@ import { HeroesComponent } from './heroes/heroes.component';
 })
 export class AppComponent implements OnInit {
   constructor() {}
-  selectedHero?: Hero;
+  selectedHero!: Hero;
 
   ngOnInit() {}
 
