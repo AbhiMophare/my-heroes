@@ -13,5 +13,7 @@ export class DetailsComponent implements OnInit {
     // console.log(this.selectedHero);
   }
 
-  ngOnInit() {}
+  ngOnInit() {
+    console.log(this.selectedHero);
+  }
 }
