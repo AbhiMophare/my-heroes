@@ -21,7 +21,7 @@
 }
 .avatar > img {
   height: 20vh;
-  width: 100%;
+  width: 50%;
 }
 .info {
   display: flex;
