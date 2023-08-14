@@ -7,7 +7,7 @@ export const HEROES: Hero[] = [
       'https://e0.pxfuel.com/wallpapers/413/982/desktop-wallpaper-lata-mangeshkar.jpg',
     name: 'Lata Mangeshkar',
     field: 'Music',
-    info: '',
+    info: 'Lata Mangeshkar was a legendary Indian playback singer and music composer who passed away on 6 February 2022. She is considered to be the most celebrated singer in independent India and one of its most influential artists',
   },
   {
     id: 2,
