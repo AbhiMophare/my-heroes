@@ -3,10 +3,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0.5rem;
   border: 1px solid #eee;
-  height: 40vh;
-  width: 20rem;
+  height: 38vh;
+  width: 15rem;
 }
 .avatar {
   display: flex;
