@@ -19,4 +19,7 @@ export class HeroesComponent implements OnInit {
     this.heroes = HEROES;
     // console.log(this.heroes);
   }
+  onSelected(hero: Hero) {
+    console.log(hero);
+  }
 }

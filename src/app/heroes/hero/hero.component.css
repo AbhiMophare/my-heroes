@@ -9,6 +9,11 @@
   /* background-color: aqua; */
   padding: 0.5rem;
 }
+.container:hover {
+  background-color: rgb(224, 224, 224);
+  height: 39.9vh;
+  box-shadow: 1px 1px 3px rgba(250 250 250 0.3);
+}
 .avatar {
   display: flex;
   justify-content: center;
