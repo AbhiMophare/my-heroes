@@ -9,6 +9,8 @@
 .card {
   display: flex;
   flex-direction: column;
+  height: 60vh;
+  width: 30vw;
 }
 .avatar {
   display: flex;
@@ -20,4 +22,11 @@
 .avatar > img {
   height: 20vh;
   width: 100%;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0.5rem;
 }
