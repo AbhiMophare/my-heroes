@@ -8,3 +8,17 @@
   height: 40vh;
   width: 20rem;
 }
+.avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 9rem;
+  width: 100%;
+}
+.avatar > img {
+  height: 9rem;
+}
+.name-id {
+  display: flex;
+  flex-direction: column;
+}
