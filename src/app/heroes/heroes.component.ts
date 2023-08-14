@@ -14,6 +14,7 @@ import { HeroComponent } from './hero/hero.component';
 export class HeroesComponent implements OnInit {
   heroes: Hero[] = [];
   selectedHero?: Hero;
+
   constructor() {}
 
   ngOnInit() {
@@ -24,4 +25,5 @@ export class HeroesComponent implements OnInit {
     console.log(hero);
     this.selectedHero = hero;
   }
+  
 }
