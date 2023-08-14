@@ -4,9 +4,10 @@
   justify-content: center;
   align-items: center;
   border: 1px solid #eee;
-  height: 18rem;
+  height: 40vh;
   width: 15rem;
   background-color: aqua;
+  padding: 0.5rem;
 }
 .avatar {
   display: flex;
