@@ -13,13 +13,25 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 5rem;
+  height: 20vh;
   width: 100%;
 }
 .avatar > img {
-  height: 9rem;
+  height: 20vh;
+  align-self: flex-start;
 }
 .name-id {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+  width: 100%;
+}
+.field {
+  display: flex;
+  height: 5vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
 }
