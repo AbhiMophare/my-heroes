@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  width: 30vw;
+  align-items: center;
+  justify-content: flex-start;
+}
+.avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  width: 100%;
+}
+.avatar > img {
+  height: 20vh;
+  width: 100%;
+}

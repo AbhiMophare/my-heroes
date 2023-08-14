@@ -17,6 +17,6 @@ export class DetailsComponent implements OnInit, OnChanges {
     // console.log(this.selectedHero);
   }
   ngOnChanges() {
-    console.log(this.selectedHero);
+    // console.log(this.selectedHero);
   }
 }
