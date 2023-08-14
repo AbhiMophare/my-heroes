@@ -1,10 +1,14 @@
 .container {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   height: 60vh;
-  width: 30vw;
+  width: 60vw;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
+}
+.card {
+  display: flex;
+  flex-direction: column;
 }
 .avatar {
   display: flex;
